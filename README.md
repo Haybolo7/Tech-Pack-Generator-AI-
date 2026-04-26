@@ -23,7 +23,7 @@
 ---
 
 ## 🏆 Accomplishments
-* ✅ **Automated Flat Generation:** Successfully generated 2D technical flats with structural consistency across various colors (VIBGYOR) and patterns.
+* ✅ **Automated Flat Generation:** Successfully generated 2D technical flats with structural consistency.
 * ✅ **Parametric Scaling:** Achieved the ability to modulate garment dimensions (e.g., "increase chest width") purely through **Natural Language Prompting**.
 * ✅ **Cost Efficiency:** Slashed the time required for a basic tech pack from several hours of manual labor to **under 10 minutes**.
 
@@ -31,7 +31,7 @@
 
 ## 🧪 Lessons Learned
 * ⚖️ **Precision > Artistry:** Technical drawings require much higher fidelity in the Latent Space than artistic images to ensure lines remain straight and measurements proportional.
-* 📉 **Optimizer Stability:** Implementing an **Adam optimizer** with a **CosineDecay** learning rate proved critical in preventing the model from "forgetting" general garment structures during fine-tuning.
+* 📉 **Optimizer Stability:** Implementing an **Adam optimizer** learning rate proved critical in preventing the model from "forgetting" general garment structures during fine-tuning.
 
 ---
 
