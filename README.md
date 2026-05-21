@@ -3,7 +3,7 @@
 > An automated blueprint system designed to bridge the gap between creative design and manufacturing using fine-tuned latent diffusion models.
 ---
 ## 💡 Inspiration
-* 🧠 **Conceptual Learning:** Inspired by the efficiency of **Stable Diffusion** in learning high-detail concepts from sparse datasets (e.g., specific characters/styles), as demonstrated in the "Tom and Jerry" source experiments.
+* 🧠 **Conceptual Learning:** Inspired by the efficiency of **Stable Diffusion** in learning high-detail concepts from sparse dataset.
 * 📐 **Automation of Blueprints:** Transforming manual, expensive technical sketching into an AI-driven process that understands geometric "blueprints."
 * ⚡ **Rapid Prototyping:** Solving the bottleneck in the "Sketch-to-Manufacturer" cycle, allowing designers to iterate via text prompts instead of manual CAD software.
 
@@ -39,3 +39,12 @@
 * 🌐 **3D Integration:** Expanding 2D flats into 3D cloth simulations for virtual try-ons.
 * 📋 **Automated BOM:** Developing a multi-modal agent to generate a text-based **Bill of Materials** (fabrics, buttons, trims) alongside the image.
 * 🖌️ **Real-time Collaboration:** Building an interface for designers to "tweak" specific seams using **ControlNet** guidance for pixel-perfect accuracy.
+
+## ⚡Sample Demonstration 
+
+
+
+
+<img width="1463" height="753" alt="Screenshot (426)" src="https://github.com/user-attachments/assets/7ea7f631-7330-4977-b0e0-3fc809506e54" />
+<img width="1305" height="568" alt="Screenshot (427)" src="https://github.com/user-attachments/assets/534cf6c6-f907-4cf0-b20f-eade1b5a953d" />
+
